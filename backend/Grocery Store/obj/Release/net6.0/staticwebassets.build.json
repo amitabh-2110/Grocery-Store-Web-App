@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hCrmSvbNhOBkvdweRTbnIKfrtNsbe214nbBeCV+zwCg=",
+  "Source": "Grocery Store",
+  "BasePath": "_content/Grocery Store",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Grocery Store\\wwwroot",
+      "Source": "Grocery Store",
+      "ContentRoot": "C:\\Users\\kumaramitabh\\Desktop\\kumar-amitabh\\Grocery Store App\\Grocery Store\\Grocery Store\\wwwroot\\",
+      "BasePath": "_content/Grocery Store",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kumaramitabh\\Desktop\\kumar-amitabh\\Grocery Store App\\Grocery Store\\Grocery Store\\wwwroot\\Uploads\\Common\\no-image.jpg",
+      "SourceId": "Grocery Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kumaramitabh\\Desktop\\kumar-amitabh\\Grocery Store App\\Grocery Store\\Grocery Store\\wwwroot\\",
+      "BasePath": "_content/Grocery Store",
+      "RelativePath": "Uploads/Common/no-image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Common\\no-image.jpg"
+    }
+  ]
+}

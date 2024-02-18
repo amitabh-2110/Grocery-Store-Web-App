@@ -1,0 +1,42 @@
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.deps.json
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.runtimeconfig.json
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.AssemblyReference.cache
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\refint\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.genruntimeconfig.cache
+C:\Users\kumaramitabh\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\ref\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.deps.json
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.runtimeconfig.json
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.AssemblyReference.cache
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\refint\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.genruntimeconfig.cache
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\Grocery Store\BusinessObjectLayer\obj\Debug\net6.0\ref\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.deps.json
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.runtimeconfig.json
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\bin\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.AssemblyReference.cache
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\refint\BusinessObjectLayer.dll
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.pdb
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\BusinessObjectLayer.genruntimeconfig.cache
+C:\Users\kumaramitabh\OneDrive - Nagarro\Desktop\kumar-amitabh\Grocery Store App\backend\BusinessObjectLayer\obj\Debug\net6.0\ref\BusinessObjectLayer.dll
